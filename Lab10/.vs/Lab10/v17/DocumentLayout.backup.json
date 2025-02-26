@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PogU\\Desktop\\MySolution10Lab\\Lab10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F331B7-F77B-45AE-8F13-38485B323CA4}|..\\MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\pogu\\desktop\\mysolution10lab\\musicalinstruments\\guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F331B7-F77B-45AE-8F13-38485B323CA4}|..\\MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\pogu\\desktop\\mysolution10lab\\musicalinstruments\\electroguitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F331B7-F77B-45AE-8F13-38485B323CA4}|..\\MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\pogu\\desktop\\mysolution10lab\\musicalinstruments\\piano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Piano.cs",
+              "DocumentMoniker": "C:\\Users\\PogU\\Desktop\\MySolution10Lab\\MusicalInstruments\\Piano.cs",
+              "RelativeDocumentMoniker": "..\\MusicalInstruments\\Piano.cs",
+              "ToolTip": "C:\\Users\\PogU\\Desktop\\MySolution10Lab\\MusicalInstruments\\Piano.cs",
+              "RelativeToolTip": "..\\MusicalInstruments\\Piano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:41:57.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Guitar.cs",
+              "DocumentMoniker": "C:\\Users\\PogU\\Desktop\\MySolution10Lab\\MusicalInstruments\\Guitar.cs",
+              "RelativeDocumentMoniker": "..\\MusicalInstruments\\Guitar.cs",
+              "ToolTip": "C:\\Users\\PogU\\Desktop\\MySolution10Lab\\MusicalInstruments\\Guitar.cs",
+              "RelativeToolTip": "..\\MusicalInstruments\\Guitar.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:41:55.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElectroGuitar.cs",
+              "DocumentMoniker": "C:\\Users\\PogU\\Desktop\\MySolution10Lab\\MusicalInstruments\\ElectroGuitar.cs",
+              "RelativeDocumentMoniker": "..\\MusicalInstruments\\ElectroGuitar.cs",
+              "ToolTip": "C:\\Users\\PogU\\Desktop\\MySolution10Lab\\MusicalInstruments\\ElectroGuitar.cs",
+              "RelativeToolTip": "..\\MusicalInstruments\\ElectroGuitar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T16:41:54.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
