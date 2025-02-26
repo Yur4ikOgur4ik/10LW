@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PogU\\Desktop\\MySolution10Lab\\MusicalInstruments\\MusicalInstruments.csproj",
+      "projectUniqueName": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\MusicalInstruments.csproj",
       "projectName": "MusicalInstruments",
-      "projectPath": "C:\\Users\\PogU\\Desktop\\MySolution10Lab\\MusicalInstruments\\MusicalInstruments.csproj",
+      "projectPath": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\MusicalInstruments.csproj",
       "packagesPath": "C:\\Users\\PogU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PogU\\Desktop\\MySolution10Lab\\MusicalInstruments\\obj\\",
+      "outputPath": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
