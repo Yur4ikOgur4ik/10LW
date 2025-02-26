@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,6 +31,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -48,19 +52,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Lab10",
+              "Title": "Lab10.csproj",
               "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\Lab10\\Lab10.csproj",
               "RelativeDocumentMoniker": "Lab10\\Lab10.csproj",
               "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\Lab10\\Lab10.csproj",
               "RelativeToolTip": "Lab10\\Lab10.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-26T18:45:41.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-02-26T18:45:41.488Z"
             }
           ]
         }

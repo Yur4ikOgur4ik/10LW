@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4987A23E-6FC5-4345-B341-36101500F63E}|Lab10\\Lab10.csproj|c:\\users\\pogu\\documents\\github\\10lw\\lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4987A23E-6FC5-4345-B341-36101500F63E}|Lab10\\Lab10.csproj|solutionrelative:lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4987A23E-6FC5-4345-B341-36101500F63E}|Lab10\\Lab10.csproj|c:\\users\\pogu\\documents\\github\\10lw\\lab10\\lab10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4987A23E-6FC5-4345-B341-36101500F63E}|Lab10\\Lab10.csproj|solutionrelative:lab10\\lab10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +31,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\Lab10\\Program.cs",
+              "RelativeDocumentMoniker": "Lab10\\Program.cs",
+              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\Lab10\\Program.cs",
+              "RelativeToolTip": "Lab10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:45:43.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab10",
+              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\Lab10\\Lab10.csproj",
+              "RelativeDocumentMoniker": "Lab10\\Lab10.csproj",
+              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\Lab10\\Lab10.csproj",
+              "RelativeToolTip": "Lab10\\Lab10.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T18:45:41.488Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
