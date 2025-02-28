@@ -11,13 +11,81 @@ namespace MusicalInstruments
         private string keyLayout;
         private int keyCount;
 
-        string KeyLayout
+        public string KeyLayout
         {
             get {return keyLayout;}
             set
             {
-
+                string[] validLayouts = { "Octave", "Scale", "Digital" };
+                if (!Array.Exists(validLayouts, s => s.Equals(value, StringComparison.OrdinalIgnoreCase)))
+                    throw new ArgumentException("Invalid keyboard layout.");
+                keyLayout = value;
             }
+        }
+
+        public int KeyCount
+        {
+            get { return keyCount; }
+            set 
+            {
+                if (value < 25 || value > 104)
+                    throw new ArgumentException("Number of keys must be between 25 and 104");
+                keyCount = value;
+            }
+        }
+
+        public Piano() : base()
+        {
+            KeyLayout = "Octave";
+            KeyCount = 88;
+        }
+
+        public Piano(string name, string keyLayout,  int keyCount) : base(name)
+        {
+            KeyLayout = keyLayout;
+            KeyCount = keyCount;
+        }
+
+        public void Show()
+        {
+            Console.WriteLine($"Name: {Name}");
+            Console.WriteLine($"Key layout: {KeyLayout}");
+            Console.WriteLine($"Number of keys: {KeyCount}");
+        }
+
+        public override string ToString() 
+        {
+            return $"{base.ToString()}, key layout: {KeyLayout}, number of keys: {KeyCount}";
+        }
+
+        public override void Init()
+        {
+            base.Init();
+            //Console.Write("Enter keyboard layout (Octave/Scale/Digital): ");
+            KeyLayout = Console.ReadLine();
+            //Console.Write("Enter number of keys: ");
+            KeyCount = int.Parse(Console.ReadLine());
+        }
+
+        public override void RandomInit(Random rnd)
+        {
+            base.RandomInit(rnd);
+            string[] layouts = { "Octave", "Scale", "Digital" };
+            KeyLayout = layouts[rnd.Next(layouts.Length)];
+            KeyCount = rnd.Next(25, 105);
+        }
+
+        public override bool Equals(object obj)
+        {
+            if (!base.Equals(obj)) return false;
+
+            Piano other = (Piano)obj;
+            return string.Equals(KeyLayout, other.KeyLayout, StringComparison.OrdinalIgnoreCase) && KeyCount == other.KeyCount;
+        }
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode() ^ KeyLayout.GetHashCode() ^ KeyCount.GetHashCode();
         }
 
     }

@@ -10,7 +10,7 @@
             set
             {
                 if (string.IsNullOrEmpty(value))
-                    throw new ArgumentNullException("Name cannot be empty");
+                    throw new ArgumentNullException("Name cannot be empty");//chech for probeli
                 name = value;
             }
         }
@@ -25,9 +25,14 @@
             Name = name;
         }
 
-        public virtual void Show()
+        public void Show()
         {
             Console.WriteLine($"Instrument is: {Name}");
+        }
+
+        public override string ToString()
+        {
+            return Name;
         }
 
         public virtual void Init()//Vvod nazvaniya instrumenta
@@ -35,7 +40,7 @@
             Name = Console.ReadLine();
         }
 
-        public virtual void RadomInit(Random rnd)
+        public virtual void RandomInit(Random rnd)
         {
             string[] names = {"Piano", "Guitar", "ElectroGuitar"};
             Name = names[rnd.Next(names.Length)];

@@ -17,7 +17,7 @@ namespace MusicalInstruments
             get { return stringCount; }
             set
             {
-                if (stringCount < 3 || stringCount > 20)
+                if (value < 3 || value > 20)
                     throw new ArgumentException("Number of strigs must be between 3 and 20");
                 stringCount = value;
             }
@@ -33,19 +33,24 @@ namespace MusicalInstruments
             StringCount = stringCount;
         }
 
-        public override void Show()
+        public  void Show()
         {
-            base.Show();
-            Console.WriteLine($"Number of strings: {stringCount}");
+            Console.WriteLine($"Instrument is: {Name}");
+            Console.WriteLine($"Number of strings: {StringCount}");
+        }
+
+        public override string ToString()
+        {
+            return $"{base.ToString()}, {StringCount}";
         }
 
         public override void Init()
         {
             base.Init();
-            stringCount = int.Parse(Console.ReadLine());
+            stringCount = int.Parse(Console.ReadLine());//add proverki na tip dannix
         }
 
-        public override void RadomInit(Random rnd)
+        public override void RandomInit(Random rnd)
         {
             string[] names = { "Balalaika", "Bass guitar", "Acoustic guitar", "Classic guitar"};
             Name = names[rnd.Next(names.Length)];

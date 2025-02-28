@@ -51,10 +51,16 @@ namespace MusicalInstruments
             PowerSource = powerSource;
         }
 
-        public override void Show()
+        public void Show()
         {
-            base.Show();
-            Console.WriteLine($"Power source: {powerSource}");
+            Console.WriteLine($"Instrument is: {Name}");
+            Console.WriteLine($"Number of strings = {StringCount}");
+            Console.WriteLine($"Power source: {PowerSource}");
+        }
+
+        public override string ToString()
+        {
+            return $"{base.ToString()}, power source: {PowerSource}";
         }
 
         public override void Init()
@@ -63,9 +69,9 @@ namespace MusicalInstruments
             PowerSource = Console.ReadLine();
         }
 
-        public override void RadomInit(Random rnd)
+        public override void RandomInit(Random rnd)
         {
-            base.RadomInit(rnd);
+            base.RandomInit(rnd);
             string[] randomSource = { "Batteries", "Battery", "Fixed Power", "USB" };
             PowerSource = randomSource[rnd.Next(randomSource.Length)];
         }
