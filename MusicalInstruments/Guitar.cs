@@ -33,6 +33,11 @@ namespace MusicalInstruments
             StringCount = stringCount;
         }
 
+        public override void ShowVirtual()
+        {
+            base.ShowVirtual();
+            Console.WriteLine($"Number of strings: {StringCount}");
+        }
         public  void Show()
         {
             Console.WriteLine($"Instrument is: {Name}");
@@ -47,7 +52,7 @@ namespace MusicalInstruments
         public override void Init()
         {
             base.Init();
-            stringCount = int.Parse(Console.ReadLine());//add proverki na tip dannix
+            stringCount = ValidInput.GetInt();
         }
 
         public override void RandomInit(Random rnd)

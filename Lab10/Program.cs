@@ -100,7 +100,7 @@ namespace Lab10
                 instr.Show();
                 Console.WriteLine();
                 Console.WriteLine("Output from ToString (virtual)");
-                Console.WriteLine(instr.ToString());
+                instr.ShowVirtual();
                 Console.WriteLine("---------------------------------------------");
             }
 

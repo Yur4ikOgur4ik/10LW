@@ -33,9 +33,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JAM\\Source\\Repos\\10LW\\Lab10\\Lab10.csproj",
+      "projectUniqueName": "C:\\Users\\JAM\\source\\repos\\10LW\\Lab10\\Lab10.csproj",
       "projectName": "Lab10",
-      "projectPath": "C:\\Users\\JAM\\Source\\Repos\\10LW\\Lab10\\Lab10.csproj",
+      "projectPath": "C:\\Users\\JAM\\source\\repos\\10LW\\Lab10\\Lab10.csproj",
       "packagesPath": "C:\\Users\\JAM\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\JAM\\Source\\Repos\\10LW\\Lab10\\obj\\",
       "projectStyle": "PackageReference",
@@ -58,8 +58,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\JAM\\Source\\Repos\\10LW\\MusicalInstruments\\MusicalInstruments.csproj": {
-              "projectPath": "C:\\Users\\JAM\\Source\\Repos\\10LW\\MusicalInstruments\\MusicalInstruments.csproj"
+            "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\MusicalInstruments.csproj": {
+              "projectPath": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\MusicalInstruments.csproj"
             }
           }
         }

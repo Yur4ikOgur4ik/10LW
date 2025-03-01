@@ -46,12 +46,19 @@ namespace MusicalInstruments
             KeyCount = keyCount;
         }
 
+        public override void ShowVirtual()
+        {
+            base.ShowVirtual();
+            Console.WriteLine($"Number of keys {KeyCount}");
+            Console.WriteLine($"Key layout: {KeyLayout}");
+        }
         public void Show()
         {
             Console.WriteLine($"Name: {Name}");
             Console.WriteLine($"Key layout: {KeyLayout}");
             Console.WriteLine($"Number of keys: {KeyCount}");
         }
+
 
         public override string ToString() 
         {
@@ -64,7 +71,7 @@ namespace MusicalInstruments
             //Console.Write("Enter keyboard layout (Octave/Scale/Digital): ");
             KeyLayout = Console.ReadLine();
             //Console.Write("Enter number of keys: ");
-            KeyCount = int.Parse(Console.ReadLine());
+            KeyCount = ValidInput.GetInt();
         }
 
         public override void RandomInit(Random rnd)

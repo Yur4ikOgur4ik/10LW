@@ -1,4 +1,5 @@
-﻿namespace MusicalInstruments
+﻿
+namespace MusicalInstruments
 {
     public class MusicalInstrument
     {
@@ -9,7 +10,7 @@
             get { return name; }
             set
             {
-                if (string.IsNullOrEmpty(value))
+                if (string.IsNullOrEmpty(value) || string.IsNullOrWhiteSpace(value))//added orWhiteSpace for "   "
                     throw new ArgumentNullException("Name cannot be empty");//chech for probeli
                 name = value;
             }
@@ -25,6 +26,10 @@
             Name = name;
         }
 
+        public virtual void ShowVirtual()
+        {
+            Console.WriteLine($"Instrument name: {Name}");
+        }
         public void Show()
         {
             Console.WriteLine($"Instrument is: {Name}");

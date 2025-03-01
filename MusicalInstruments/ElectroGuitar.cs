@@ -51,6 +51,11 @@ namespace MusicalInstruments
             PowerSource = powerSource;
         }
 
+        public override void ShowVirtual()
+        {
+            base.ShowVirtual();
+            Console.WriteLine($"Power source: {PowerSource}");
+        }
         public void Show()
         {
             Console.WriteLine($"Instrument is: {Name}");

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JAM\\Source\\Repos\\10LW\\MusicalInstruments\\MusicalInstruments.csproj": {}
+    "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\MusicalInstruments.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JAM\\Source\\Repos\\10LW\\MusicalInstruments\\MusicalInstruments.csproj": {
+    "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\MusicalInstruments.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JAM\\Source\\Repos\\10LW\\MusicalInstruments\\MusicalInstruments.csproj",
+        "projectUniqueName": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\MusicalInstruments.csproj",
         "projectName": "MusicalInstruments",
-        "projectPath": "C:\\Users\\JAM\\Source\\Repos\\10LW\\MusicalInstruments\\MusicalInstruments.csproj",
+        "projectPath": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\MusicalInstruments.csproj",
         "packagesPath": "C:\\Users\\JAM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JAM\\Source\\Repos\\10LW\\MusicalInstruments\\obj\\",
+        "outputPath": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
