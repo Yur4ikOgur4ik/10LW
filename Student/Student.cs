@@ -1,5 +1,5 @@
 ﻿using MusicalInstruments;//dlya proverki
-namespace Student
+namespace StudentLibrary
 {
     public class Student : IInit
     {
@@ -42,7 +42,7 @@ namespace Student
             {
                 if (value < 0 || value > 10)
                     throw new ArgumentException("GPA must be between 0 and 10");
-                GPA = value;
+                gpa = value;
             }
         }
 
@@ -82,6 +82,11 @@ namespace Student
             Name = randomNames[rnd.Next(randomNames.Length)];
             Age = rnd.Next(0, 70);
             GPA = Math.Round(rnd.NextDouble() * 10, 1);  
+        }
+
+        public override string ToString()
+        {
+            return $"Name - {Name}, age - {Age}, GPA - {GPA}";
         }
         public static int GetCount => count;
         public static void ResetCount()

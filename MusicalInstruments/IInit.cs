@@ -10,5 +10,6 @@ namespace MusicalInstruments
     {
         void Init();
         void RandomInit();
+        string ToString();
     }
 }
