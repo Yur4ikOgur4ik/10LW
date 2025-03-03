@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace MusicalInstruments
 {
-    public class Guitar : MusicalInstrument
+    public class Guitar : MusicalInstrument, IInit
     {
         private int stringCount;//kol-vo strun
 
@@ -55,8 +55,9 @@ namespace MusicalInstruments
             stringCount = ValidInput.GetInt();
         }
 
-        public override void RandomInit(Random rnd)
+        public override void RandomInit()
         {
+
             string[] names = { "Balalaika", "Bass guitar", "Acoustic guitar", "Classic guitar"};
             Name = names[rnd.Next(names.Length)];
             StringCount = rnd.Next(3, 21);

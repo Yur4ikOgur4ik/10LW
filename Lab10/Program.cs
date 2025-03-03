@@ -1,5 +1,6 @@
 ﻿using System.Runtime.Serialization.Formatters;
 using MusicalInstruments;
+using Student;
 namespace Lab10
 {
     internal class Program
@@ -90,7 +91,7 @@ namespace Lab10
 
             foreach (var instr in instruments) //making stuff random
             { 
-                instr.RandomInit(rnd);
+                instr.RandomInit();
             }
 
             //vivod from array
@@ -119,6 +120,33 @@ namespace Lab10
             if (MaxNumberOfKeysOnOctave(instruments) < 0)
                 Console.WriteLine($"There were no pianos with octave keyboard layout");
             Console.WriteLine($"Max number of keys on octave keyboard is {MaxNumberOfKeysOnOctave(instruments)}");
+
+
+
+            //Start of part 3
+            int arrLen = 20;
+            IInit[] StudentsAndInstruments = new IInit[arrLen];
+
+            for (int i = 0; i < StudentsAndInstruments.Length; i++)
+            {
+                switch (rnd.Next(5))
+                {
+                    case 0:
+                        StudentsAndInstruments[i] = new MusicalInstrument();
+                        break;
+                    case 1:
+                        StudentsAndInstruments[i] = new Guitar();
+                        break;
+                    case 2:
+                        StudentsAndInstruments[i] = new ElectroGuitar();
+                        break;
+                    case 3:
+                        StudentsAndInstruments[i] = new Piano();
+                        break;
+                    //case 4:
+                    //    StudentsAndInstruments[i] = new Student();
+                }
+            }
         }
     }
 }

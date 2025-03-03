@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MusicalInstruments
 {
-    public class ElectroGuitar : Guitar
+    public class ElectroGuitar : Guitar, IInit
     {
         private string powerSource;
 
@@ -74,9 +74,9 @@ namespace MusicalInstruments
             PowerSource = Console.ReadLine();
         }
 
-        public override void RandomInit(Random rnd)
+        public override void RandomInit()
         {
-            base.RandomInit(rnd);
+            base.RandomInit();
             string[] randomSource = { "Batteries", "Battery", "Fixed Power", "USB" };
             PowerSource = randomSource[rnd.Next(randomSource.Length)];
         }

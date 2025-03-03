@@ -1,0 +1,6 @@
+C:\Users\PogU\Documents\GitHub\10LW\Student\obj\Debug\net8.0\StudentLibrary.csproj.AssemblyReference.cache
+C:\Users\PogU\Documents\GitHub\10LW\Student\obj\Debug\net8.0\StudentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PogU\Documents\GitHub\10LW\Student\obj\Debug\net8.0\StudentLibrary.AssemblyInfoInputs.cache
+C:\Users\PogU\Documents\GitHub\10LW\Student\obj\Debug\net8.0\StudentLibrary.AssemblyInfo.cs
+C:\Users\PogU\Documents\GitHub\10LW\Student\obj\Debug\net8.0\StudentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PogU\Documents\GitHub\10LW\Student\obj\Debug\net8.0\StudentLibrary.sourcelink.json

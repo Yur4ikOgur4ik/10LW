@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MusicalInstruments
 {
-    public class Piano : MusicalInstrument
+    public class Piano : MusicalInstrument, IInit
     {
         private string keyLayout;
         private int keyCount;
@@ -74,9 +74,9 @@ namespace MusicalInstruments
             KeyCount = ValidInput.GetInt();
         }
 
-        public override void RandomInit(Random rnd)
+        public override void RandomInit()
         {
-            base.RandomInit(rnd);
+            base.RandomInit();
             string[] layouts = { "Octave", "Scale", "Digital" };
             KeyLayout = layouts[rnd.Next(layouts.Length)];
             KeyCount = rnd.Next(25, 105);

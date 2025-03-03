@@ -1,9 +1,10 @@
 ﻿
 namespace MusicalInstruments
 {
-    public class MusicalInstrument
+    public class MusicalInstrument : IInit
     {
         protected string name;
+        protected Random rnd;
 
         public string Name
         {
@@ -19,11 +20,13 @@ namespace MusicalInstruments
         public MusicalInstrument()//bez parametrov
         {
             Name = "Unknown Instrument";
+            rnd = new Random();
         }
 
         public MusicalInstrument(string name)//s parametrom
         {
             Name = name;
+            rnd = new Random();
         }
 
         public virtual void ShowVirtual()
@@ -45,7 +48,7 @@ namespace MusicalInstruments
             Name = Console.ReadLine();
         }
 
-        public virtual void RandomInit(Random rnd)
+        public virtual void RandomInit()
         {
             string[] names = {"Piano", "Guitar", "ElectroGuitar"};
             Name = names[rnd.Next(names.Length)];
@@ -64,6 +67,8 @@ namespace MusicalInstruments
         {
             return Name.GetHashCode();
         }
+
+
 
     }
 }

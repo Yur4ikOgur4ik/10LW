@@ -27,7 +27,7 @@ namespace MusicalInstruments
         {
             double result;
 
-            while (true) 
+            while (true)
             {
                 Console.WriteLine(message);
                 string input = Console.ReadLine();
@@ -37,5 +37,6 @@ namespace MusicalInstruments
                     Console.WriteLine("Error: the number is not real, enter again");
             }
 
+        }
     }
 }
