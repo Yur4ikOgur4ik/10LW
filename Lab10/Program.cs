@@ -134,7 +134,7 @@ namespace Lab10
             int studentCount = 0;
 
 
-            for (int i = 0; i < StudentsAndInstruments.Length-2; i++)
+            for (int i = 0; i < StudentsAndInstruments.Length-1; i++)
             {
                 switch (rnd.Next(5))
                 {
@@ -160,7 +160,17 @@ namespace Lab10
                         break;
                 }
             }
+            int objNum = 0;
+            foreach (var obj in StudentsAndInstruments)
+            {
+                if (obj != null)
+                {
+                    
+                    obj.RandomInit();
 
+                }
+
+            }
             Console.WriteLine("Enter last element of array");
             Console.WriteLine("1 - default instrument, 2 - guitar, 3 - electro-guitar, 4 - piano, 5 - student");
             int choice;
@@ -178,28 +188,49 @@ namespace Lab10
                             StudentsAndInstruments[arrLen-1] = new MusicalInstrument();
                             Console.WriteLine("Enter name");
                             StudentsAndInstruments[arrLen-1].Init();
+                            defInstrumentCount++;
                             isTrue = true;
                             break;
                         case 2:
+                            StudentsAndInstruments[arrLen - 1] = new Guitar();
+                            Console.WriteLine("Enter name, and then number of strings");
+                            StudentsAndInstruments[arrLen - 1].Init();
+                            guitarCount++;
+                            isTrue = true;
                             break;
                         case 3:
+                            StudentsAndInstruments[arrLen - 1] = new ElectroGuitar();
+                            Console.WriteLine("Enter name, and then number of strings, then power source");
+                            StudentsAndInstruments[arrLen - 1].Init();
+                            electroGuitarCount++;
+                            isTrue = true;
                             break;
                         case 4:
+                            StudentsAndInstruments[arrLen - 1] = new Piano();
+                            Console.WriteLine("Enter name, then key layout, and then number of keys");
+                            StudentsAndInstruments[arrLen - 1].Init();
+                            pianoCount++;
+                            isTrue = true;
                             break;
                         case 5:
+                            StudentsAndInstruments[arrLen - 1] = new Student();
+                            Console.WriteLine("Enter name, then age, and then gpa");
+                            StudentsAndInstruments[arrLen - 1].Init();
+                            pianoCount++;
+                            isTrue = true;
                             break;
 
                     }
                 }
             }
 
-            int objNum = 0;
+            
             foreach (var obj  in StudentsAndInstruments)
             {
                 if (obj != null)
                 {
+
                     objNum++;
-                    obj.RandomInit();
                     Console.WriteLine(objNum.ToString() + ") " + obj.ToString());
                 }
             }

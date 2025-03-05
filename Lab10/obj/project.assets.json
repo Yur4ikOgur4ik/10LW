@@ -46,23 +46,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JAM\\.nuget\\packages\\": {},
+    "C:\\Users\\PogU\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JAM\\source\\repos\\10LW\\Lab10\\Lab10.csproj",
+      "projectUniqueName": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\Lab10\\Lab10.csproj",
       "projectName": "Lab10",
-      "projectPath": "C:\\Users\\JAM\\source\\repos\\10LW\\Lab10\\Lab10.csproj",
-      "packagesPath": "C:\\Users\\JAM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JAM\\source\\repos\\10LW\\Lab10\\obj\\",
+      "projectPath": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\Lab10\\Lab10.csproj",
+      "packagesPath": "C:\\Users\\PogU\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\Lab10\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\JAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PogU\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -77,11 +77,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\MusicalInstruments.csproj": {
-              "projectPath": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\MusicalInstruments.csproj"
+            "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\MusicalInstruments.csproj": {
+              "projectPath": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\MusicalInstruments.csproj"
             },
-            "C:\\Users\\JAM\\source\\repos\\10LW\\Student\\StudentLibrary.csproj": {
-              "projectPath": "C:\\Users\\JAM\\source\\repos\\10LW\\Student\\StudentLibrary.csproj"
+            "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\Student\\StudentLibrary.csproj": {
+              "projectPath": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\Student\\StudentLibrary.csproj"
             }
           }
         }

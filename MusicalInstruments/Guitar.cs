@@ -46,13 +46,22 @@ namespace MusicalInstruments
 
         public override string ToString()
         {
-            return $"{base.ToString()}, {StringCount}";
+            return $"{base.ToString()}, number of strings: {StringCount}";
         }
 
         public override void Init()
         {
             base.Init();
-            stringCount = ValidInput.GetInt();
+            try
+            {
+                StringCount = ValidInput.GetInt();
+            }
+            catch (Exception ex) when (ex is ArgumentException)
+            {
+                Console.WriteLine($"Error: {ex.Message}");
+                Console.WriteLine("Because of error, making a standart number of strings (6)");
+                StringCount = 6;
+            }
         }
 
         public override void RandomInit()

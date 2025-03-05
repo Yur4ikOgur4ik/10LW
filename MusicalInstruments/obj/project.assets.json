@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\JAM\\.nuget\\packages\\": {},
+    "C:\\Users\\PogU\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\MusicalInstruments.csproj",
+      "projectUniqueName": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\MusicalInstruments.csproj",
       "projectName": "MusicalInstruments",
-      "projectPath": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\MusicalInstruments.csproj",
-      "packagesPath": "C:\\Users\\JAM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\obj\\",
+      "projectPath": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\MusicalInstruments.csproj",
+      "packagesPath": "C:\\Users\\PogU\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\JAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PogU\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

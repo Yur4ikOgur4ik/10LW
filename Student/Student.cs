@@ -72,8 +72,30 @@ namespace StudentLibrary
         public void Init()
         {
             Name = Console.ReadLine();
-            Age = ValidInput.GetInt();
-            GPA = ValidInput.GetDouble();
+
+            try
+            {
+                Age = ValidInput.GetInt();
+            }
+            catch (Exception ex) when (ex is ArgumentException)
+            {
+                Console.WriteLine($"Error: {ex.Message}");
+                Console.WriteLine("Because of error, making a standart age (18)");
+                Age = 18;
+            }
+
+            try
+            {
+                GPA = ValidInput.GetDouble();
+            }
+            catch (Exception ex) when (ex is ArgumentException)
+            {
+                Console.WriteLine($"Error: {ex.Message}");
+                Console.WriteLine("Because of error, making a standart gpa (8)");
+                GPA = 8;
+            }
+
+            
         }
 
         public void RandomInit()

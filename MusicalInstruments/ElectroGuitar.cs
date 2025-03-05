@@ -71,7 +71,21 @@ namespace MusicalInstruments
         public override void Init()
         {
             base.Init();
-            PowerSource = Console.ReadLine();
+            
+            bool isValid = false;
+            while (!isValid)
+            {
+                try
+                {
+                    PowerSource = Console.ReadLine().Trim();
+                    isValid = true;
+                }
+                catch (ArgumentException ex)
+                {
+                    Console.WriteLine($"Error: {ex.Message}");
+                    Console.WriteLine("Try again.");
+                }
+            }
         }
 
         public override void RandomInit()
