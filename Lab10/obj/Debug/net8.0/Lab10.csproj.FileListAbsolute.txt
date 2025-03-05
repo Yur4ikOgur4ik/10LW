@@ -76,3 +76,5 @@ C:\Users\PogU\Documents\GitHub\10LW\Lab10\obj\Debug\net8.0\Lab10.genruntimeconfi
 C:\Users\PogU\Documents\GitHub\10LW\Lab10\obj\Debug\net8.0\ref\Lab10.dll
 C:\Users\PogU\Documents\GitHub\10LW\Lab10\bin\Debug\net8.0\StudentLibrary.dll
 C:\Users\PogU\Documents\GitHub\10LW\Lab10\bin\Debug\net8.0\StudentLibrary.pdb
+C:\Users\JAM\source\repos\10LW\Lab10\bin\Debug\net8.0\StudentLibrary.dll
+C:\Users\JAM\source\repos\10LW\Lab10\bin\Debug\net8.0\StudentLibrary.pdb

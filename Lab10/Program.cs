@@ -125,7 +125,7 @@ namespace Lab10
 
             //Start of part 3
             int arrLen = 20;
-            IInit[] StudentsAndInstruments = new IInit[arrLen-1];
+            IInit[] StudentsAndInstruments = new IInit[arrLen];
 
             int defInstrumentCount = 0;
             int guitarCount = 0;
@@ -134,7 +134,7 @@ namespace Lab10
             int studentCount = 0;
 
 
-            for (int i = 0; i < StudentsAndInstruments.Length; i++)
+            for (int i = 0; i < StudentsAndInstruments.Length-2; i++)
             {
                 switch (rnd.Next(5))
                 {
@@ -175,9 +175,10 @@ namespace Lab10
                     switch (choice) 
                     {
                         case 1:
-                            StudentsAndInstruments[arrLen] = new MusicalInstrument.Init();
+                            StudentsAndInstruments[arrLen-1] = new MusicalInstrument();
                             Console.WriteLine("Enter name");
-
+                            StudentsAndInstruments[arrLen-1].Init();
+                            isTrue = true;
                             break;
                         case 2:
                             break;
@@ -195,10 +196,12 @@ namespace Lab10
             int objNum = 0;
             foreach (var obj  in StudentsAndInstruments)
             {
-                
-                objNum++;
-                obj.RandomInit();
-                Console.WriteLine(objNum.ToString() +") " + obj.ToString());
+                if (obj != null)
+                {
+                    objNum++;
+                    obj.RandomInit();
+                    Console.WriteLine(objNum.ToString() + ") " + obj.ToString());
+                }
             }
 
             Console.WriteLine($"Number of Default Instruments: {defInstrumentCount}");
