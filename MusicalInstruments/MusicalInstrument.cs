@@ -1,7 +1,7 @@
 ﻿
 namespace MusicalInstruments
 {
-    public class MusicalInstrument : IInit
+    public class MusicalInstrument : IInit, ICustomComparer
     {
         protected string name;
         protected Random rnd;
@@ -68,6 +68,16 @@ namespace MusicalInstruments
             return Name.GetHashCode();
         }
 
+        public int CompareTo(ICustomComparer other)
+        {
+            if (other == null)
+                return 1;
+            if (other is MusicalInstrument otherInstrument)
+            {
+                return string.Compare(Name, otherInstrument.Name, StringComparison.OrdinalIgnoreCase);
+            }
+            return -1;
+        }
 
 
     }

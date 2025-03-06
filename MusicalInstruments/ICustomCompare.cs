@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace MusicalInstruments
 {
-    internal interface Icomparable
+    public interface ICustomComparer: IInit, IComparable<ICustomComparer>
     {
-        CompareTo
+        public int CompareTo(ICustomComparer other);
     }
 }
