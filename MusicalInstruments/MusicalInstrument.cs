@@ -1,7 +1,9 @@
 ﻿
+using System.Reflection.Metadata.Ecma335;
+
 namespace MusicalInstruments
 {
-    public class MusicalInstrument : IInit, ICustomComparer
+    public class MusicalInstrument : IInit, IComparable<MusicalInstrument>, ICloneable
     {
         protected string name;
         protected Random rnd;
@@ -17,15 +19,20 @@ namespace MusicalInstruments
             }
         }
 
+        public IdNumber ID { get;set; }
+
+
         public MusicalInstrument()//bez parametrov
         {
             Name = "Unknown Instrument";
+            ID = new IdNumber(0);
             rnd = new Random();
         }
 
-        public MusicalInstrument(string name)//s parametrom
+        public MusicalInstrument(string name, int id)//s parametrom
         {
             Name = name;
+            ID = new IdNumber(id);
             rnd = new Random();
         }
 
@@ -40,7 +47,7 @@ namespace MusicalInstruments
 
         public override string ToString()
         {
-            return Name;
+            return $"Id: {ID}, name - {Name}";
         }
 
         public virtual void Init()//Vvod nazvaniya instrumenta
@@ -51,6 +58,7 @@ namespace MusicalInstruments
         public virtual void RandomInit()
         {
             string[] names = {"Piano", "Guitar", "ElectroGuitar"};
+            ID.id = rnd.Next(0, 100);
             Name = names[rnd.Next(names.Length)];
         }
 
@@ -60,25 +68,31 @@ namespace MusicalInstruments
                 return false;
 
             MusicalInstrument other = (MusicalInstrument)obj;
-            return string.Equals(Name, other.Name, StringComparison.OrdinalIgnoreCase);//compare ignoring register (A = a)
+            return (string.Equals(Name, other.Name, StringComparison.OrdinalIgnoreCase) && ID.Equals(other.ID));//compare ignoring register (A = a)
         }
 
         public override int GetHashCode()//pereopredelyaem hash code
         {
-            return Name.GetHashCode();
+            return Name.GetHashCode()^ID.id.GetHashCode();
         }
 
-        public int CompareTo(ICustomComparer other)
+
+
+        public int CompareTo(MusicalInstrument? other)
         {
             if (other == null)
-                return 1;
-            if (other is MusicalInstrument otherInstrument)
-            {
-                return string.Compare(Name, otherInstrument.Name, StringComparison.OrdinalIgnoreCase);
-            }
-            return -1;
+                return -1;
+            return Name.CompareTo(other.Name);
         }
 
+        public object Clone()
+        {
+            return new MusicalInstrument(this.Name, this.ID.id);
+        }
 
+        public object ShallowCopy()
+        {
+            return this.MemberwiseClone();
+        }
     }
 }

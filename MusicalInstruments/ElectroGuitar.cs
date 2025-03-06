@@ -46,7 +46,7 @@ namespace MusicalInstruments
             PowerSource = "Battery";
         }
 
-        public ElectroGuitar(string name, int stringCount, string powerSource) : base(name, stringCount)
+        public ElectroGuitar(string name, int id, int stringCount, string powerSource) : base(name, id, stringCount)
         {
             PowerSource = powerSource;
         }

@@ -242,6 +242,61 @@ namespace Lab10
             Console.WriteLine($"Number of Students: {studentCount}");
 
 
+            Console.WriteLine("Sorted array of instruments: ");
+            Array.Sort(instruments);
+            foreach (var instr in instruments)
+                { Console.WriteLine(instr.ToString()); }
+            
+            MusicalInstrument itemToSearch = new MusicalInstrument();
+            itemToSearch.RandomInit();
+            int index = Array.BinarySearch(instruments, itemToSearch);
+            Console.WriteLine($"{itemToSearch.ToString()} found at index {index}");
+
+            Guitar[] guitarArray = new Guitar[8];
+            for (int i = 0; i < guitarArray.Length; i++)
+            {
+                if (i % 2 == 0)
+                {
+                    guitarArray[i] = new Guitar();
+                    guitarArray[i].RandomInit();
+                }
+                else 
+                { 
+                    guitarArray[i] = new ElectroGuitar();
+                    guitarArray[i].RandomInit();
+                    
+                }
+            }
+
+            Console.WriteLine("Guitars before sorting: ");
+            foreach(var item in guitarArray) { Console.WriteLine(item.ToString()); }
+            Console.WriteLine("----------------------------------------");
+            Console.WriteLine("Array of guitars sorted by num of strings: ");
+            Array.Sort(guitarArray, new SortByStrings());
+            foreach (var item in guitarArray)
+            {
+                Console.WriteLine(item.ToString());
+            }
+            Guitar guitarToSearch = new Guitar();
+            Console.WriteLine("EnterGuitarToSearch");
+            guitarToSearch.Init();
+            index = Array.BinarySearch(guitarArray, guitarToSearch);
+            Console.WriteLine("Index of desired guitar: ");
+            Console.WriteLine(index);
+
+            Console.Clear();
+
+            MusicalInstrument ins = new MusicalInstrument("gagagag", 10);
+            MusicalInstrument instrClone = (MusicalInstrument)ins.Clone();
+            MusicalInstrument instrCopy = (MusicalInstrument)ins.ShallowCopy();
+            Console.WriteLine(ins.ToString());
+            Console.WriteLine(instrClone.ToString());
+            Console.WriteLine(instrCopy.ToString());
+            ins.ID.id = 100;
+            ins.Name = "Aboba";
+            Console.WriteLine(ins.ToString());
+            Console.WriteLine(instrClone.ToString());
+            Console.WriteLine(instrCopy.ToString());
         }
     }
 }

@@ -40,7 +40,7 @@ namespace MusicalInstruments
             KeyCount = 88;
         }
 
-        public Piano(string name, string keyLayout,  int keyCount) : base(name)
+        public Piano(string name, int id, string keyLayout,  int keyCount) : base(name, id)
         {
             KeyLayout = keyLayout;
             KeyCount = keyCount;

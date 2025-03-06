@@ -28,7 +28,7 @@ namespace MusicalInstruments
             StringCount = 6;
         }
 
-        public Guitar(string name, int stringCount) : base(name)
+        public Guitar(string name, int id, int stringCount) : base(name, id)
         {
             StringCount = stringCount;
         }
