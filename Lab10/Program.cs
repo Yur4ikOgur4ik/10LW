@@ -297,6 +297,30 @@ namespace Lab10
             Console.WriteLine(ins.ToString());
             Console.WriteLine(instrClone.ToString());
             Console.WriteLine(instrCopy.ToString());
+            Console.ReadLine();
+
+
+            Console.Clear();
+            //Guitar g1 = new Guitar();
+            //g1.RandomInit();
+            //ElectroGuitar g2 = new ElectroGuitar();
+            //g2.RandomInit();
+            //Console.WriteLine(g1 is ElectroGuitar);
+            //Console.WriteLine(g2 is Guitar);
+
+            Guitar guitar = new Guitar("Acoustic",2, 6);
+            Piano piano = new Piano("Grand", 1, "Octave", 88);
+
+            CustomFormatProvider customProvider = new CustomFormatProvider();
+
+            Console.WriteLine(string.Format(customProvider, "{0}", guitar));
+            Console.WriteLine(string.Format(customProvider, "{0}", piano));
+
+            ElectroGuitar eg1 = new ElectroGuitar("Cool guitar", 12, 6, "Battery");
+
+            Console.WriteLine($"{eg1:P&S}");
+            Console.WriteLine(eg1.ToString());
+
         }
     }
 }

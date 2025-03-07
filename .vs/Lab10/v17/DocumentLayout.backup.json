@@ -1,53 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\",
+  "WorkspaceRootPath": "C:\\Users\\JAM\\source\\repos\\10LW\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\pogu\\documents\\github\\10lw\\musicalinstruments\\guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|solutionrelative:musicalinstruments\\guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\pogu\\documents\\github\\10lw\\musicalinstruments\\musicalinstrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|solutionrelative:musicalinstruments\\musicalinstrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\pogu\\documents\\github\\10lw\\musicalinstruments\\electroguitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|solutionrelative:musicalinstruments\\electroguitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\pogu\\documents\\github\\10lw\\musicalinstruments\\validinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|solutionrelative:musicalinstruments\\validinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\pogu\\documents\\github\\10lw\\musicalinstruments\\iinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|solutionrelative:musicalinstruments\\iinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF7EA929-2205-42D3-A61B-C80E76F9C448}|Student\\StudentLibrary.csproj|c:\\users\\pogu\\documents\\github\\10lw\\student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF7EA929-2205-42D3-A61B-C80E76F9C448}|Student\\StudentLibrary.csproj|solutionrelative:student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\pogu\\documents\\github\\10lw\\musicalinstruments\\sortbystrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|solutionrelative:musicalinstruments\\sortbystrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\pogu\\documents\\github\\10lw\\musicalinstruments\\idnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|solutionrelative:musicalinstruments\\idnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4987A23E-6FC5-4345-B341-36101500F63E}|Lab10\\Lab10.csproj|c:\\users\\pogu\\documents\\github\\10lw\\lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4987A23E-6FC5-4345-B341-36101500F63E}|Lab10\\Lab10.csproj|c:\\users\\jam\\source\\repos\\10lw\\lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4987A23E-6FC5-4345-B341-36101500F63E}|Lab10\\Lab10.csproj|solutionrelative:lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\pogu\\documents\\github\\10lw\\musicalinstruments\\piano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\jam\\source\\repos\\10lw\\musicalinstruments\\musicalinstrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|solutionrelative:musicalinstruments\\musicalinstrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\jam\\source\\repos\\10lw\\musicalinstruments\\sortbystrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|solutionrelative:musicalinstruments\\sortbystrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\jam\\source\\repos\\10lw\\musicalinstruments\\customformatprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|solutionrelative:musicalinstruments\\customformatprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\jam\\source\\repos\\10lw\\musicalinstruments\\validinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|solutionrelative:musicalinstruments\\validinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\jam\\source\\repos\\10lw\\musicalinstruments\\electroguitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|solutionrelative:musicalinstruments\\electroguitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\jam\\source\\repos\\10lw\\musicalinstruments\\idnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|solutionrelative:musicalinstruments\\idnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\jam\\source\\repos\\10lw\\musicalinstruments\\guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|solutionrelative:musicalinstruments\\guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\jam\\source\\repos\\10lw\\musicalinstruments\\iinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|solutionrelative:musicalinstruments\\iinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7EA929-2205-42D3-A61B-C80E76F9C448}|Student\\StudentLibrary.csproj|c:\\users\\jam\\source\\repos\\10lw\\student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7EA929-2205-42D3-A61B-C80E76F9C448}|Student\\StudentLibrary.csproj|solutionrelative:student\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\jam\\source\\repos\\10lw\\musicalinstruments\\piano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|solutionrelative:musicalinstruments\\piano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF7EA929-2205-42D3-A61B-C80E76F9C448}|Student\\StudentLibrary.csproj|c:\\users\\pogu\\documents\\github\\10lw\\student\\studentlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{DF7EA929-2205-42D3-A61B-C80E76F9C448}|Student\\StudentLibrary.csproj|c:\\users\\jam\\source\\repos\\10lw\\student\\studentlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DF7EA929-2205-42D3-A61B-C80E76F9C448}|Student\\StudentLibrary.csproj|solutionrelative:student\\studentlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4987A23E-6FC5-4345-B341-36101500F63E}|Lab10\\Lab10.csproj|c:\\users\\pogu\\documents\\github\\10lw\\lab10\\lab10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{4987A23E-6FC5-4345-B341-36101500F63E}|Lab10\\Lab10.csproj|c:\\users\\jam\\source\\repos\\10lw\\lab10\\lab10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4987A23E-6FC5-4345-B341-36101500F63E}|Lab10\\Lab10.csproj|solutionrelative:lab10\\lab10.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -58,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -69,29 +73,38 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomFormatProvider.cs",
+              "DocumentMoniker": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\CustomFormatProvider.cs",
+              "RelativeDocumentMoniker": "MusicalInstruments\\CustomFormatProvider.cs",
+              "ToolTip": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\CustomFormatProvider.cs",
+              "RelativeToolTip": "MusicalInstruments\\CustomFormatProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:10:34.147Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "IdNumber.cs",
-              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\IdNumber.cs",
+              "DocumentMoniker": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\IdNumber.cs",
               "RelativeDocumentMoniker": "MusicalInstruments\\IdNumber.cs",
-              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\IdNumber.cs",
+              "ToolTip": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\IdNumber.cs",
               "RelativeToolTip": "MusicalInstruments\\IdNumber.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T19:04:49.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "SortByStrings.cs",
-              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\SortByStrings.cs",
+              "DocumentMoniker": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\SortByStrings.cs",
               "RelativeDocumentMoniker": "MusicalInstruments\\SortByStrings.cs",
-              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\SortByStrings.cs",
+              "ToolTip": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\SortByStrings.cs",
               "RelativeToolTip": "MusicalInstruments\\SortByStrings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -100,52 +113,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\Student\\Student.cs",
-              "RelativeDocumentMoniker": "Student\\Student.cs",
-              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\Student\\Student.cs",
-              "RelativeToolTip": "Student\\Student.cs",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAswJ4AAAA8AAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "IInit.cs",
+              "DocumentMoniker": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\IInit.cs",
+              "RelativeDocumentMoniker": "MusicalInstruments\\IInit.cs",
+              "ToolTip": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\IInit.cs",
+              "RelativeToolTip": "MusicalInstruments\\IInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T16:09:56.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-01T13:18:49.722Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IInit.cs",
-              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\IInit.cs",
-              "RelativeDocumentMoniker": "MusicalInstruments\\IInit.cs",
-              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\IInit.cs",
-              "RelativeToolTip": "MusicalInstruments\\IInit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T13:18:49.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "ValidInput.cs",
-              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\ValidInput.cs",
+              "DocumentMoniker": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\ValidInput.cs",
               "RelativeDocumentMoniker": "MusicalInstruments\\ValidInput.cs",
-              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\ValidInput.cs",
+              "ToolTip": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\ValidInput.cs",
               "RelativeToolTip": "MusicalInstruments\\ValidInput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T08:11:29.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ElectroGuitar.cs",
-              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\ElectroGuitar.cs",
+              "DocumentMoniker": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\ElectroGuitar.cs",
               "RelativeDocumentMoniker": "MusicalInstruments\\ElectroGuitar.cs",
-              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\ElectroGuitar.cs",
+              "ToolTip": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\ElectroGuitar.cs",
               "RelativeToolTip": "MusicalInstruments\\ElectroGuitar.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAvwDAAAABoAAAAAAAAAA==",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAqwIAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T14:55:15.08Z",
               "EditorCaption": ""
@@ -154,11 +153,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MusicalInstrument.cs",
-              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\MusicalInstrument.cs",
+              "DocumentMoniker": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\MusicalInstrument.cs",
               "RelativeDocumentMoniker": "MusicalInstruments\\MusicalInstrument.cs",
-              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\MusicalInstrument.cs",
+              "ToolTip": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\MusicalInstrument.cs",
               "RelativeToolTip": "MusicalInstruments\\MusicalInstrument.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAYwFkAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T14:55:14.479Z",
               "EditorCaption": ""
@@ -166,25 +165,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Guitar.cs",
-              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\Guitar.cs",
-              "RelativeDocumentMoniker": "MusicalInstruments\\Guitar.cs",
-              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\Guitar.cs",
-              "RelativeToolTip": "MusicalInstruments\\Guitar.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAAwB4AAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T14:55:14.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\Lab10\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\JAM\\source\\repos\\10LW\\Lab10\\Program.cs",
               "RelativeDocumentMoniker": "Lab10\\Program.cs",
-              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\Lab10\\Program.cs",
+              "ToolTip": "C:\\Users\\JAM\\source\\repos\\10LW\\Lab10\\Program.cs",
               "RelativeToolTip": "Lab10\\Program.cs",
-              "ViewState": "AgIAAAMBAAAAAAAAAAASwCoBAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAkwBIBAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T19:00:52.931Z",
               "EditorCaption": ""
@@ -192,27 +178,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Piano.cs",
-              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\Piano.cs",
-              "RelativeDocumentMoniker": "MusicalInstruments\\Piano.cs",
-              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\Piano.cs",
-              "RelativeToolTip": "MusicalInstruments\\Piano.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAASwCoAAABaAAAAAAAAAA==",
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\JAM\\source\\repos\\10LW\\Student\\Student.cs",
+              "RelativeDocumentMoniker": "Student\\Student.cs",
+              "ToolTip": "C:\\Users\\JAM\\source\\repos\\10LW\\Student\\Student.cs",
+              "RelativeToolTip": "Student\\Student.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAswJ4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T14:55:10.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T16:09:56.264Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "StudentLibrary.csproj",
-              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\Student\\StudentLibrary.csproj",
-              "RelativeDocumentMoniker": "Student\\StudentLibrary.csproj",
-              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\Student\\StudentLibrary.csproj",
-              "RelativeToolTip": "Student\\StudentLibrary.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-03T17:02:40.446Z"
+              "DocumentIndex": 7,
+              "Title": "Guitar.cs",
+              "DocumentMoniker": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\Guitar.cs",
+              "RelativeDocumentMoniker": "MusicalInstruments\\Guitar.cs",
+              "ToolTip": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\Guitar.cs",
+              "RelativeToolTip": "MusicalInstruments\\Guitar.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwB4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:55:14.266Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -220,11 +206,35 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Piano.cs",
+              "DocumentMoniker": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\Piano.cs",
+              "RelativeDocumentMoniker": "MusicalInstruments\\Piano.cs",
+              "ToolTip": "C:\\Users\\JAM\\source\\repos\\10LW\\MusicalInstruments\\Piano.cs",
+              "RelativeToolTip": "MusicalInstruments\\Piano.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAASwCoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:55:10.23Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "StudentLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\JAM\\source\\repos\\10LW\\Student\\StudentLibrary.csproj",
+              "RelativeDocumentMoniker": "Student\\StudentLibrary.csproj",
+              "ToolTip": "C:\\Users\\JAM\\source\\repos\\10LW\\Student\\StudentLibrary.csproj",
+              "RelativeToolTip": "Student\\StudentLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T17:02:40.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Lab10.csproj",
-              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\Lab10\\Lab10.csproj",
+              "DocumentMoniker": "C:\\Users\\JAM\\source\\repos\\10LW\\Lab10\\Lab10.csproj",
               "RelativeDocumentMoniker": "Lab10\\Lab10.csproj",
-              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\Lab10\\Lab10.csproj",
+              "ToolTip": "C:\\Users\\JAM\\source\\repos\\10LW\\Lab10\\Lab10.csproj",
               "RelativeToolTip": "Lab10\\Lab10.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

@@ -62,7 +62,7 @@ namespace MusicalInstruments
             Name = names[rnd.Next(names.Length)];
         }
 
-        public override bool Equals(object obj)
+        public override bool Equals(object? obj)
         {
             if (obj == null || GetType() != obj.GetType())//chech if null or different types
                 return false;
@@ -94,5 +94,7 @@ namespace MusicalInstruments
         {
             return this.MemberwiseClone();
         }
+
+        
     }
 }

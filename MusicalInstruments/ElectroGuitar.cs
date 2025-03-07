@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace MusicalInstruments
 {
-    public class ElectroGuitar : Guitar, IInit
+    public class ElectroGuitar : Guitar, IInit, IFormattable
     {
         private string powerSource;
 
@@ -63,10 +64,10 @@ namespace MusicalInstruments
             Console.WriteLine($"Power source: {PowerSource}");
         }
 
-        public override string ToString()
-        {
-            return $"{base.ToString()}, power source: {PowerSource}";
-        }
+        //public override string ToString()
+        //{
+        //    return $"{base.ToString()}, power source: {PowerSource}";
+        //}
 
         public override void Init()
         {
@@ -107,6 +108,26 @@ namespace MusicalInstruments
         public override int GetHashCode()
         {
             return base.GetHashCode() ^ PowerSource.GetHashCode();
+        }
+
+        public override string ToString()
+        {
+            return ToString("G", CultureInfo.CurrentCulture);
+        }
+        public string ToString(string format, IFormatProvider formatProvider)
+        {
+            if (string.IsNullOrEmpty(format))
+                format = "G";//.Tostring obicni
+            switch (format) 
+            {
+                case "G":
+                    return $"{base.ToString()}, power source: {PowerSource}";
+                    
+                case "P&S":
+                    return $"Power source {PowerSource}, number of strings {StringCount}";
+                default:
+                    throw new Exception("wrong format");
+            }
         }
     }
 }
