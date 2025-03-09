@@ -15,6 +15,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentLibrary", "Student\S
 		{606D5DAB-1D3B-4DC3-A502-76996570B28D} = {606D5DAB-1D3B-4DC3-A502-76996570B28D}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LW10Tests", "LW10Tests\LW10Tests.csproj", "{CD8B1E77-8696-4C2F-8840-FB76C7D61A33}"
+	ProjectSection(ProjectDependencies) = postProject
+		{606D5DAB-1D3B-4DC3-A502-76996570B28D} = {606D5DAB-1D3B-4DC3-A502-76996570B28D}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +38,10 @@ Global
 		{DF7EA929-2205-42D3-A61B-C80E76F9C448}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF7EA929-2205-42D3-A61B-C80E76F9C448}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF7EA929-2205-42D3-A61B-C80E76F9C448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD8B1E77-8696-4C2F-8840-FB76C7D61A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8B1E77-8696-4C2F-8840-FB76C7D61A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8B1E77-8696-4C2F-8840-FB76C7D61A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8B1E77-8696-4C2F-8840-FB76C7D61A33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

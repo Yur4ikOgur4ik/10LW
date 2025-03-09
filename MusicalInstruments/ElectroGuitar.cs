@@ -52,42 +52,42 @@ namespace MusicalInstruments
             PowerSource = powerSource;
         }
 
-        public override void ShowVirtual()
-        {
-            base.ShowVirtual();
-            Console.WriteLine($"Power source: {PowerSource}");
-        }
-        public void Show()
-        {
-            Console.WriteLine($"Instrument is: {Name}");
-            Console.WriteLine($"Number of strings = {StringCount}");
-            Console.WriteLine($"Power source: {PowerSource}");
-        }
+        //public override void ShowVirtual()
+        //{
+        //    base.ShowVirtual();
+        //    Console.WriteLine($"Power source: {PowerSource}");
+        //}
+        //public void Show()
+        //{
+        //    Console.WriteLine($"Instrument is: {Name}");
+        //    Console.WriteLine($"Number of strings = {StringCount}");
+        //    Console.WriteLine($"Power source: {PowerSource}");
+        //}
 
         //public override string ToString()
         //{
         //    return $"{base.ToString()}, power source: {PowerSource}";
         //}
 
-        public override void Init()
-        {
-            base.Init();
+        //public override void Init()
+        //{
+        //    base.Init();
             
-            bool isValid = false;
-            while (!isValid)
-            {
-                try
-                {
-                    PowerSource = Console.ReadLine().Trim();
-                    isValid = true;
-                }
-                catch (ArgumentException ex)
-                {
-                    Console.WriteLine($"Error: {ex.Message}");
-                    Console.WriteLine("Try again.");
-                }
-            }
-        }
+        //    bool isValid = false;
+        //    while (!isValid)
+        //    {
+        //        try
+        //        {
+        //            PowerSource = Console.ReadLine().Trim();
+        //            isValid = true;
+        //        }
+        //        catch (ArgumentException ex)
+        //        {
+        //            Console.WriteLine($"Error: {ex.Message}");
+        //            Console.WriteLine("Try again.");
+        //        }
+        //    }
+        //}
 
         public override void RandomInit()
         {

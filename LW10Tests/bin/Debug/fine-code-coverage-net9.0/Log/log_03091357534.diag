@@ -1,0 +1,18 @@
+2025-03-09T13:26:57.5431267+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.4.1+4f4ed7d3ce76cfa6e671c7a55f8b9cb6f2cb35c5
+2025-03-09T13:26:57.5565834+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-03-09T13:26:57.5578724+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-03-09T13:26:57.5578786+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 13:26:57.508
+2025-03-09T13:26:57.5595270+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 23280
+2025-03-09T13:26:57.5595761+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 9.0.0
+2025-03-09T13:26:57.5595917+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.0\System.Private.CoreLib.dll
+2025-03-09T13:26:57.5596007+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-03-09T13:26:57.5596037+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\PogU\Documents\GitHub\10LW\LW10Tests\bin\Debug\net9.0\LW10Tests.dll
+2025-03-09T13:26:57.5597161+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\PogU\Documents\GitHub\10LW\LW10Tests\bin\Debug\net9.0\Log --results-directory C:\Users\PogU\Documents\GitHub\10LW\LW10Tests\bin\Debug\net9.0\fine-code-coverage\coverage-tool-output --client-port 52769'
+2025-03-09T13:26:57.5608580+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-03-09T13:26:57.5913509+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-03-09T13:26:57.5956892+00:00 Microsoft.Testing.Platform.Configurations.JsonConfigurationSource+JsonConfigurationProvider INFORMATION Config file 'C:\Users\PogU\Documents\GitHub\10LW\LW10Tests\bin\Debug\net9.0\LW10Tests.testconfig.json' not found.
+2025-03-09T13:26:57.5972622+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable:  VSTest mode: False
+2025-03-09T13:26:57.7534486+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: 'MSTestExtension' Version: '3.6.1' DisplayName: 'MSTest' Description: 'MSTest Framework for Microsoft Testing Platform'
+2025-03-09T13:26:57.7637280+00:00 Microsoft.Testing.Extensions.VSTestBridge.ObjectModel.MessageLoggerAdapter WARNING Сборщики данных Runsettings не поддерживаются в Microsoft.Testing.Platform и будут пропущены
+2025-03-09T13:26:57.7642317+00:00 Microsoft.Testing.Extensions.VSTestBridge.ObjectModel.MessageLoggerAdapter WARNING Атрибут Runsettings "TestAdaptersPaths" не поддерживается в Microsoft.Testing.Platform и будет пропущен
+2025-03-09T13:26:57.8391200+00:00 Microsoft.Testing.Extensions.VSTestBridge.ObjectModel.MessageLoggerAdapter INFORMATION Test Parallelization enabled for C:\Users\PogU\Documents\GitHub\10LW\LW10Tests\bin\Debug\net9.0\LW10Tests.dll (Workers: 12, Scope: MethodLevel)

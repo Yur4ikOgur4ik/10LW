@@ -46,18 +46,18 @@ namespace MusicalInstruments
             KeyCount = keyCount;
         }
 
-        public override void ShowVirtual()
-        {
-            base.ShowVirtual();
-            Console.WriteLine($"Number of keys {KeyCount}");
-            Console.WriteLine($"Key layout: {KeyLayout}");
-        }
-        public void Show()
-        {
-            Console.WriteLine($"Name: {Name}");
-            Console.WriteLine($"Key layout: {KeyLayout}");
-            Console.WriteLine($"Number of keys: {KeyCount}");
-        }
+        //public override void ShowVirtual()
+        //{
+        //    base.ShowVirtual();
+        //    Console.WriteLine($"Number of keys {KeyCount}");
+        //    Console.WriteLine($"Key layout: {KeyLayout}");
+        //}
+        //public void Show()
+        //{
+        //    Console.WriteLine($"Name: {Name}");
+        //    Console.WriteLine($"Key layout: {KeyLayout}");
+        //    Console.WriteLine($"Number of keys: {KeyCount}");
+        //}
 
 
         public override string ToString() 
@@ -65,40 +65,40 @@ namespace MusicalInstruments
             return $"{base.ToString()}, key layout: {KeyLayout}, number of keys: {KeyCount}";
         }
 
-        public override void Init()
-        {
-            base.Init();
-            bool isValid = false;
-            while (!isValid)
-            {
-                try
-                {
-                    KeyLayout = Console.ReadLine().Trim();
-                    isValid = true;
-                }
-                catch (ArgumentException ex)
-                {
-                    Console.WriteLine($"Error: {ex.Message}");
-                    Console.WriteLine("Try again.");
-                }
-            }
-            try
-            {
-                KeyCount = ValidInput.GetInt();
-            }
-            catch (Exception ex) when (ex is ArgumentException)
-            {
-                Console.WriteLine($"Error: {ex.Message}");
-                Console.WriteLine("Because of error, making a standart number of keys (88)");
-                KeyCount = 81;
+        //public override void Init()
+        //{
+        //    base.Init();
+        //    bool isValid = false;
+        //    while (!isValid)
+        //    {
+        //        try
+        //        {
+        //            KeyLayout = Console.ReadLine().Trim();
+        //            isValid = true;
+        //        }
+        //        catch (ArgumentException ex)
+        //        {
+        //            Console.WriteLine($"Error: {ex.Message}");
+        //            Console.WriteLine("Try again.");
+        //        }
+        //    }
+        //    try
+        //    {
+        //        KeyCount = ValidInput.GetInt();
+        //    }
+        //    catch (Exception ex) when (ex is ArgumentException)
+        //    {
+        //        Console.WriteLine($"Error: {ex.Message}");
+        //        Console.WriteLine("Because of error, making a standart number of keys (88)");
+        //        KeyCount = 81;
 
 
-            }
-            //Console.Write("Enter keyboard layout (Octave/Scale/Digital): ");
-            KeyLayout = Console.ReadLine();
-            //Console.Write("Enter number of keys: ");
+        //    }
+        //    //Console.Write("Enter keyboard layout (Octave/Scale/Digital): ");
+        //    KeyLayout = Console.ReadLine();
+        //    //Console.Write("Enter number of keys: ");
             
-        }
+        //}
 
         public override void RandomInit()
         {
