@@ -256,3 +256,10 @@ C:\Users\PogU\Documents\GitHub\10LW\LW10Tests\obj\Debug\net9.0\refint\LW10Tests.
 C:\Users\PogU\Documents\GitHub\10LW\LW10Tests\obj\Debug\net9.0\LW10Tests.pdb
 C:\Users\PogU\Documents\GitHub\10LW\LW10Tests\obj\Debug\net9.0\LW10Tests.genruntimeconfig.cache
 C:\Users\PogU\Documents\GitHub\10LW\LW10Tests\obj\Debug\net9.0\ref\LW10Tests.dll
+C:\Users\PogU\Documents\GitHub\10LW\LW10Tests\bin\Debug\net9.0\Lab10.deps.json
+C:\Users\PogU\Documents\GitHub\10LW\LW10Tests\bin\Debug\net9.0\Lab10.runtimeconfig.json
+C:\Users\PogU\Documents\GitHub\10LW\LW10Tests\bin\Debug\net9.0\Lab10.exe
+C:\Users\PogU\Documents\GitHub\10LW\LW10Tests\bin\Debug\net9.0\Lab10.dll
+C:\Users\PogU\Documents\GitHub\10LW\LW10Tests\bin\Debug\net9.0\StudentLibrary.dll
+C:\Users\PogU\Documents\GitHub\10LW\LW10Tests\bin\Debug\net9.0\Lab10.pdb
+C:\Users\PogU\Documents\GitHub\10LW\LW10Tests\bin\Debug\net9.0\StudentLibrary.pdb

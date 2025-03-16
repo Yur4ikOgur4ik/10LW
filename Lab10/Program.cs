@@ -3,13 +3,13 @@ using MusicalInstruments;
 using StudentLibrary;
 namespace Lab10
 {
-    internal class Program
+    public static class Program
     {
 
         public static double AverageNumberOfStrings(MusicalInstrument[] instruments)
         {
-            int count = 0;
-            int numberOfStrings = 0;
+            double count = 0;
+            double numberOfStrings = 0;
             foreach (MusicalInstrument instr in instruments)
             {
                 if (instr is Guitar guitar)//rassmotr kak v seredine ierarxii vedut => Guitar != EGuitar
