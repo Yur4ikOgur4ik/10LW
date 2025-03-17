@@ -7,16 +7,40 @@
       "RelativeMoniker": "D:0:0:{CD8B1E77-8696-4C2F-8840-FB76C7D61A33}|LW10Tests\\LW10Tests.csproj|solutionrelative:lw10tests\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4987A23E-6FC5-4345-B341-36101500F63E}|Lab10\\Lab10.csproj|c:\\users\\pogu\\documents\\github\\10lw\\lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4987A23E-6FC5-4345-B341-36101500F63E}|Lab10\\Lab10.csproj|solutionrelative:lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CD8B1E77-8696-4C2F-8840-FB76C7D61A33}|LW10Tests\\LW10Tests.csproj|c:\\users\\pogu\\documents\\github\\10lw\\lw10tests\\pianotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD8B1E77-8696-4C2F-8840-FB76C7D61A33}|LW10Tests\\LW10Tests.csproj|solutionrelative:lw10tests\\pianotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CD8B1E77-8696-4C2F-8840-FB76C7D61A33}|LW10Tests\\LW10Tests.csproj|c:\\users\\pogu\\documents\\github\\10lw\\lw10tests\\musicalinstrumenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8B1E77-8696-4C2F-8840-FB76C7D61A33}|LW10Tests\\LW10Tests.csproj|solutionrelative:lw10tests\\musicalinstrumenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8B1E77-8696-4C2F-8840-FB76C7D61A33}|LW10Tests\\LW10Tests.csproj|c:\\users\\pogu\\documents\\github\\10lw\\lw10tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8B1E77-8696-4C2F-8840-FB76C7D61A33}|LW10Tests\\LW10Tests.csproj|solutionrelative:lw10tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8B1E77-8696-4C2F-8840-FB76C7D61A33}|LW10Tests\\LW10Tests.csproj|c:\\users\\pogu\\documents\\github\\10lw\\lw10tests\\guitartests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8B1E77-8696-4C2F-8840-FB76C7D61A33}|LW10Tests\\LW10Tests.csproj|solutionrelative:lw10tests\\guitartests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CD8B1E77-8696-4C2F-8840-FB76C7D61A33}|LW10Tests\\LW10Tests.csproj|c:\\users\\pogu\\documents\\github\\10lw\\lw10tests\\eguitartests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD8B1E77-8696-4C2F-8840-FB76C7D61A33}|LW10Tests\\LW10Tests.csproj|solutionrelative:lw10tests\\eguitartests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4987A23E-6FC5-4345-B341-36101500F63E}|Lab10\\Lab10.csproj|c:\\users\\pogu\\documents\\github\\10lw\\lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4987A23E-6FC5-4345-B341-36101500F63E}|Lab10\\Lab10.csproj|solutionrelative:lab10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\pogu\\documents\\github\\10lw\\musicalinstruments\\musicalinstrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|solutionrelative:musicalinstruments\\musicalinstrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\pogu\\documents\\github\\10lw\\musicalinstruments\\electroguitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|solutionrelative:musicalinstruments\\electroguitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4987A23E-6FC5-4345-B341-36101500F63E}|Lab10\\Lab10.csproj|c:\\users\\pogu\\documents\\github\\10lw\\lab10\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{4987A23E-6FC5-4345-B341-36101500F63E}|Lab10\\Lab10.csproj|solutionrelative:lab10\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\pogu\\documents\\github\\10lw\\musicalinstruments\\idnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\pogu\\documents\\github\\10lw\\musicalinstruments\\customformatprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|solutionrelative:musicalinstruments\\customformatprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8B1E77-8696-4C2F-8840-FB76C7D61A33}|LW10Tests\\LW10Tests.csproj|c:\\users\\pogu\\documents\\github\\10lw\\lw10tests\\guitartests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD8B1E77-8696-4C2F-8840-FB76C7D61A33}|LW10Tests\\LW10Tests.csproj|solutionrelative:lw10tests\\guitartests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\pogu\\documents\\github\\10lw\\musicalinstruments\\validinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,18 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\pogu\\documents\\github\\10lw\\musicalinstruments\\guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|solutionrelative:musicalinstruments\\guitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\pogu\\documents\\github\\10lw\\musicalinstruments\\electroguitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|solutionrelative:musicalinstruments\\electroguitar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8B1E77-8696-4C2F-8840-FB76C7D61A33}|LW10Tests\\LW10Tests.csproj|c:\\users\\pogu\\documents\\github\\10lw\\lw10tests\\musicalinstrumenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD8B1E77-8696-4C2F-8840-FB76C7D61A33}|LW10Tests\\LW10Tests.csproj|solutionrelative:lw10tests\\musicalinstrumenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|c:\\users\\pogu\\documents\\github\\10lw\\musicalinstruments\\musicalinstrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{606D5DAB-1D3B-4DC3-A502-76996570B28D}|MusicalInstruments\\MusicalInstruments.csproj|solutionrelative:musicalinstruments\\musicalinstrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,11 +74,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 10,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\LW10Tests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "LW10Tests\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\LW10Tests\\MSTestSettings.cs",
+              "RelativeToolTip": "LW10Tests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T10:41:23.604Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -86,33 +103,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProgramTests.cs",
-              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\LW10Tests\\ProgramTests.cs",
-              "RelativeDocumentMoniker": "LW10Tests\\ProgramTests.cs",
-              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\LW10Tests\\ProgramTests.cs*",
-              "RelativeToolTip": "LW10Tests\\ProgramTests.cs*",
-              "ViewState": "AgIAANQAAAAAAAAAAADwv+4AAAA0AAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\Lab10\\Program.cs",
+              "RelativeDocumentMoniker": "Lab10\\Program.cs",
+              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\Lab10\\Program.cs",
+              "RelativeToolTip": "Lab10\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T19:06:33.939Z",
+              "WhenOpened": "2025-03-09T17:31:23.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ValidInput.cs",
-              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\ValidInput.cs",
-              "RelativeDocumentMoniker": "MusicalInstruments\\ValidInput.cs",
-              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\ValidInput.cs",
-              "RelativeToolTip": "MusicalInstruments\\ValidInput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "ElectroGuitar.cs",
+              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\ElectroGuitar.cs",
+              "RelativeDocumentMoniker": "MusicalInstruments\\ElectroGuitar.cs",
+              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\ElectroGuitar.cs",
+              "RelativeToolTip": "MusicalInstruments\\ElectroGuitar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T18:51:13.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T16:30:34.5Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "CustomFormatProvider.cs",
               "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\CustomFormatProvider.cs",
               "RelativeDocumentMoniker": "MusicalInstruments\\CustomFormatProvider.cs",
@@ -120,38 +136,75 @@
               "RelativeToolTip": "MusicalInstruments\\CustomFormatProvider.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T18:55:08.347Z",
+              "WhenOpened": "2025-03-09T18:55:08.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EguitarTests.cs",
+              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\LW10Tests\\EguitarTests.cs",
+              "RelativeDocumentMoniker": "LW10Tests\\EguitarTests.cs",
+              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\LW10Tests\\EguitarTests.cs",
+              "RelativeToolTip": "LW10Tests\\EguitarTests.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAmwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:30:00.6Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MusicalInstrumentTests.cs",
+              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\LW10Tests\\MusicalInstrumentTests.cs",
+              "RelativeDocumentMoniker": "LW10Tests\\MusicalInstrumentTests.cs",
+              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\LW10Tests\\MusicalInstrumentTests.cs*",
+              "RelativeToolTip": "LW10Tests\\MusicalInstrumentTests.cs*",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwJwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T09:04:59.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PianoTests.cs",
               "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\LW10Tests\\PianoTests.cs",
               "RelativeDocumentMoniker": "LW10Tests\\PianoTests.cs",
-              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\LW10Tests\\PianoTests.cs",
-              "RelativeToolTip": "LW10Tests\\PianoTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\LW10Tests\\PianoTests.cs*",
+              "RelativeToolTip": "LW10Tests\\PianoTests.cs*",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAwwIsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T18:24:18.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\Lab10\\Program.cs",
-              "RelativeDocumentMoniker": "Lab10\\Program.cs",
-              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\Lab10\\Program.cs",
-              "RelativeToolTip": "Lab10\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProgramTests.cs",
+              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\LW10Tests\\ProgramTests.cs",
+              "RelativeDocumentMoniker": "LW10Tests\\ProgramTests.cs",
+              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\LW10Tests\\ProgramTests.cs*",
+              "RelativeToolTip": "LW10Tests\\ProgramTests.cs*",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAwwNcAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T17:31:23.988Z",
+              "WhenOpened": "2025-03-16T19:06:33.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "MusicalInstrument.cs",
+              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\MusicalInstrument.cs",
+              "RelativeDocumentMoniker": "MusicalInstruments\\MusicalInstrument.cs",
+              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\MusicalInstrument.cs",
+              "RelativeToolTip": "MusicalInstruments\\MusicalInstrument.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T14:37:12.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "IdNumber.cs",
               "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\IdNumber.cs",
               "RelativeDocumentMoniker": "MusicalInstruments\\IdNumber.cs",
@@ -159,37 +212,47 @@
               "RelativeToolTip": "MusicalInstruments\\IdNumber.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T16:55:10.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T16:55:10.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EguitarTests.cs",
-              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\LW10Tests\\EguitarTests.cs",
-              "RelativeDocumentMoniker": "LW10Tests\\EguitarTests.cs",
-              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\LW10Tests\\EguitarTests.cs",
-              "RelativeToolTip": "LW10Tests\\EguitarTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "GuitarTests.cs",
+              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\LW10Tests\\GuitarTests.cs",
+              "RelativeDocumentMoniker": "LW10Tests\\GuitarTests.cs",
+              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\LW10Tests\\GuitarTests.cs*",
+              "RelativeToolTip": "LW10Tests\\GuitarTests.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwFwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T16:30:00.6Z",
+              "WhenOpened": "2025-03-09T15:26:12.268Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ElectroGuitar.cs",
-              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\ElectroGuitar.cs",
-              "RelativeDocumentMoniker": "MusicalInstruments\\ElectroGuitar.cs",
-              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\ElectroGuitar.cs",
-              "RelativeToolTip": "MusicalInstruments\\ElectroGuitar.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAiwFkAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T16:30:34.5Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\Lab10\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Lab10\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\Lab10\\ClassDiagram1.cd",
+              "RelativeToolTip": "Lab10\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-03-16T20:26:31.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ValidInput.cs",
+              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\ValidInput.cs",
+              "RelativeDocumentMoniker": "MusicalInstruments\\ValidInput.cs",
+              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\ValidInput.cs",
+              "RelativeToolTip": "MusicalInstruments\\ValidInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:51:13.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Piano.cs",
               "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\Piano.cs",
               "RelativeDocumentMoniker": "MusicalInstruments\\Piano.cs",
@@ -201,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "SortByStrings.cs",
               "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\SortByStrings.cs",
               "RelativeDocumentMoniker": "MusicalInstruments\\SortByStrings.cs",
@@ -213,24 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GuitarTests.cs",
-              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\LW10Tests\\GuitarTests.cs",
-              "RelativeDocumentMoniker": "LW10Tests\\GuitarTests.cs",
-              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\LW10Tests\\GuitarTests.cs",
-              "RelativeToolTip": "LW10Tests\\GuitarTests.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAAAIoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T15:26:12.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Guitar.cs",
               "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\Guitar.cs",
               "RelativeDocumentMoniker": "MusicalInstruments\\Guitar.cs",
@@ -241,28 +287,8 @@
               "WhenOpened": "2025-03-09T15:22:01.733Z"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MusicalInstrument.cs",
-              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\MusicalInstrument.cs",
-              "RelativeDocumentMoniker": "MusicalInstruments\\MusicalInstrument.cs",
-              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\MusicalInstruments\\MusicalInstrument.cs",
-              "RelativeToolTip": "MusicalInstruments\\MusicalInstrument.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T14:37:12.248Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MusicalInstrumentTests.cs",
-              "DocumentMoniker": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\LW10Tests\\MusicalInstrumentTests.cs",
-              "RelativeDocumentMoniker": "LW10Tests\\MusicalInstrumentTests.cs",
-              "ToolTip": "C:\\Users\\PogU\\Documents\\GitHub\\10LW\\LW10Tests\\MusicalInstrumentTests.cs",
-              "RelativeToolTip": "LW10Tests\\MusicalInstrumentTests.cs",
-              "ViewState": "AgIAAJ8AAAAAAAAAAAAQwOEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T09:04:59.52Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
